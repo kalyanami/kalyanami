@@ -1,0 +1,8 @@
+# dictionary
+lst = {1:'kalyan' , 2:'sundar' , 3:'praveen' , 4:'ganesh'}
+print(lst)
+print("Name in the lst: "+lst[1]);
+print(lst.keys())
+print(lst.values())
+for k,v in lst.items():
+    print(k,v)
