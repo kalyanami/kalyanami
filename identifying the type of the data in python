@@ -1,0 +1,6 @@
+a = 10
+b = 'hi'
+c = 90.56
+print(type(a))
+print(type(b))
+print(type(c))
