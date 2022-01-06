@@ -1,0 +1,9 @@
+str1 = "python basics"
+str2 = "python fundamentals"
+print(str1[:])
+print(str1[1:])
+print(str1[:10])
+print(str1[-2:-1])
+print(str1[2:-5])
+print(str1[-4:])
+print(str1[:-3])
