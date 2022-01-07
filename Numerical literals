@@ -1,0 +1,11 @@
+# Numerical Literals
+b = 0b10110# boolean literal
+d = 1000 # decimal literal
+o = 0o210 # octal literal
+x = 0x13d # hexa literal
+float_1 = 123.4 # float literals
+float_2 = 1.34e4 # float literals
+a = 5+3.81j
+print(b,d,o,x)
+print(float_1,float_2)
+print(a,a.imag,a.real)
