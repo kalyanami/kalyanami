@@ -1,0 +1,12 @@
+# String Literals
+str1 = 'kalyan'
+print("String Literal: " + str1)
+# Multi line string literal
+multistr = 'kalyan\
+praveen'
+print("Multi line string literal: " + multistr)
+# Multi line triple quotes literal
+triplestr = '''kalyan
+sundar
+praveen'''
+print("Multi line triple quotes literal: " + triplestr)
